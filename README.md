@@ -7,6 +7,9 @@
 - 
 
 <!---
-CorneliusOmeje/CorneliusOmeje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CorneliusOmeje/Intro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+Some Interactive Data Analytics Dashboards i have created
