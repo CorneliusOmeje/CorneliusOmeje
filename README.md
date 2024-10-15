@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Analytics Projects
 - 📫 How to reach me www.linkedin.com/in/cornelius-omeje-7391b2228
 - 😄 Pronouns: Mr
-- 
+
 
 <!---
 CorneliusOmeje/Intro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
