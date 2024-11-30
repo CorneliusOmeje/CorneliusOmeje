@@ -14,8 +14,10 @@ You can click the Preview link to take a look at your changes.
 
 Checkout Some Interactive Data Analytics Dashboards i have created below
 
+![Screenshot 2024-11-29 133549](https://github.com/user-attachments/assets/86922777-2153-4c57-ac49-c05179d40dd5)
 
-![Screenshot 2024-10-10 105915](https://github.com/user-attachments/assets/bb744be4-cb11-45ff-bbc6-c57df74f4cd7)
+![Screenshot 2024-11-29 141823](https://github.com/user-attachments/assets/fe7e7de7-3e00-4d8c-90dd-ef09da1b9f89)
+
 
 ![Screenshot 2024-10-11 023420](https://github.com/user-attachments/assets/53d0a768-39ec-428c-abba-80b63f297634)
 
